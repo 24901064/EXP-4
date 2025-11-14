@@ -39,6 +39,16 @@ CIRCUIT DIAGRAMS
 ![beee 1](https://github.com/user-attachments/assets/a46f1c1b-4c5e-4772-ad2e-2cf318be1ad1)
 ![beee0](https://github.com/user-attachments/assets/cbb8c822-a9a2-4814-ab38-f0aff3018bcc)
 
+## OUTPUT:
+
+# HALFWAVE RECTIFIER WITHOUT FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/178fd4f4-90e8-4208-95e1-cd588f192c72" />
+
+# FULL WAVE RECTIFIER WITH FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1939226-212f-4ecc-8ca6-64b56bd84bc2" />
+
 
 RESULT:
 
